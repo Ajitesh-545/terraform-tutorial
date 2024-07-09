@@ -1,0 +1,5 @@
+*.terraform*
+*terraform.tfstate.d*
+*terraform.*
+aws_key.pub
+aws_key
