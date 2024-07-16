@@ -44,10 +44,14 @@ Dive into Terraform modules to understand how to create, use, and manage reusabl
 
 Learn about provisioners in Terraform, which allow you to execute scripts or commands on your resources.
 
-## 12. State Locking
+## 12. Terraform Workspace
+
+Understand the concept of workspaces in Terraform to manage different states and environments in a single configuration.
+
+## 13. State Locking
 
 Understand the concept of state locking in Terraform to prevent concurrent operations that can lead to state corruption.
 
-## 13. Remote State Locking
+## 14. Remote State Locking
 
 Explore remote state locking to manage Terraform state files in a shared environment and ensure safe and consistent operations.
